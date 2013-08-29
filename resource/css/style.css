@@ -48,7 +48,6 @@ h1{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	margin-bottom: 20px;
 }
 #test
 {
@@ -86,10 +85,7 @@ button:hover
 {
 	background-color: #558C89;
 }
-#copy:hover
-{
-	background-color: #74AFAD;
-}
+
 .footer
 {
 	color: #191919;
